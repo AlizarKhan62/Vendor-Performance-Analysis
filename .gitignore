@@ -1,0 +1,10 @@
+# *.db 
+# __MACOSX/ 
+# __pycache__/ 
+# .ipynb_checkpoints/ 
+# data/ 
+data/ 
+*.db 
+__MACOSX/ 
+__pycache__/ 
+.ipynb_checkpoints/ 
